@@ -1,4 +1,4 @@
-Hi! 👋
+clearHi! 👋
 
 You've opened the IDE Sandbox. 🎉
 
